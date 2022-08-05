@@ -9,7 +9,7 @@ This repository contains the scripts developed to obtain:
 
 
 
-If using these codes for research or industrial purposes, please cite:
+If using these codes for research, teaching or industrial purposes, please cite:
 
 Gori, M., & Bosi, F. (2022). Deployment and surface accuracy of regularly creased membranes. Extreme Mechanics Letters, 101849. 
 
